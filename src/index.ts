@@ -37,5 +37,6 @@ vehicles.push(motorbike1);
 // create a new instance of the Cli class
 const cli = new Cli(vehicles);
 
+
 // start the cli
 cli.startCli();
