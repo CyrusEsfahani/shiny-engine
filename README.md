@@ -15,6 +15,8 @@
 To install the Typescript command-line application, clone the repository and install the necessary dependencies:
 https://github.com/CyrusEsfahani/shiny-engine.git
 
+link to a walkthrough video guide showcasing the usage of this application can be found here: https://drive.google.com/file/d/1AdRdlCcY9IrPR8B_DUVSTLLeDTiXxNIp/view
+
 
 ## Usage
 - **Customizable Templates:** Choose from various vehicle templates to fit your needs.
